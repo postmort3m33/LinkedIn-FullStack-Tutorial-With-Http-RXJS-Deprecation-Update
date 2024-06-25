@@ -1,0 +1,49 @@
+# Gradle files
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Compiled class files
+*.class
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven
+target/
+
+# Spring Boot
+spring-boot-starter.log
+
+# Application-specific config files (adjust as needed)
+application.properties
+application.yml
+
+# Ignore generated files
+/generated/
+/generated-sources/
+
+# Ignore local configuration files
+/local/
+
+# Ignore OS-generated files
+/.vscode/
+/.idea/
+/.DS_Store
+
+## Angular Webapp
+src/main/webapp/angular2/dist/
+src/main/webapp/angular2/node_modules/
